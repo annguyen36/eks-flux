@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
 - addons.yaml
 - apps.yaml
+- newns.yaml
